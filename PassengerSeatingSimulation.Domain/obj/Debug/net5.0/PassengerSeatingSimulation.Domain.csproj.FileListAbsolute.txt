@@ -1,0 +1,12 @@
+C:\Users\rajpandian\Source\Repos\PassengerSeatingSimulation\PassengerSeatingSimulation.Domain\bin\Debug\net5.0\PassengerSeatingSimulation.Domain.deps.json
+C:\Users\rajpandian\Source\Repos\PassengerSeatingSimulation\PassengerSeatingSimulation.Domain\bin\Debug\net5.0\PassengerSeatingSimulation.Domain.dll
+C:\Users\rajpandian\Source\Repos\PassengerSeatingSimulation\PassengerSeatingSimulation.Domain\bin\Debug\net5.0\ref\PassengerSeatingSimulation.Domain.dll
+C:\Users\rajpandian\Source\Repos\PassengerSeatingSimulation\PassengerSeatingSimulation.Domain\bin\Debug\net5.0\PassengerSeatingSimulation.Domain.pdb
+C:\Users\rajpandian\Source\Repos\PassengerSeatingSimulation\PassengerSeatingSimulation.Domain\obj\Debug\net5.0\PassengerSeatingSimulation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajpandian\Source\Repos\PassengerSeatingSimulation\PassengerSeatingSimulation.Domain\obj\Debug\net5.0\PassengerSeatingSimulation.Domain.AssemblyInfoInputs.cache
+C:\Users\rajpandian\Source\Repos\PassengerSeatingSimulation\PassengerSeatingSimulation.Domain\obj\Debug\net5.0\PassengerSeatingSimulation.Domain.AssemblyInfo.cs
+C:\Users\rajpandian\Source\Repos\PassengerSeatingSimulation\PassengerSeatingSimulation.Domain\obj\Debug\net5.0\PassengerSeatingSimulation.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rajpandian\Source\Repos\PassengerSeatingSimulation\PassengerSeatingSimulation.Domain\obj\Debug\net5.0\PassengerSeatingSimulation.Domain.dll
+C:\Users\rajpandian\Source\Repos\PassengerSeatingSimulation\PassengerSeatingSimulation.Domain\obj\Debug\net5.0\ref\PassengerSeatingSimulation.Domain.dll
+C:\Users\rajpandian\Source\Repos\PassengerSeatingSimulation\PassengerSeatingSimulation.Domain\obj\Debug\net5.0\PassengerSeatingSimulation.Domain.pdb
+C:\Users\rajpandian\Source\Repos\PassengerSeatingSimulation\PassengerSeatingSimulation.Domain\obj\Debug\net5.0\PassengerSeatingSimulation.Domain.csproj.AssemblyReference.cache
