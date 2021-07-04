@@ -7,7 +7,7 @@ Layered decoupled application divided in to following projects
 
   * PassengerSeatingSimulation 
   * PassengerSeatingSimulation.Domain ( for storing domain models)
-  * # Architecture ( service layer)
+  * Architecture ( service layer)
   * PassengerSeatingSimulation.Tests ( Test classes for service and application methods)
 
 # Description
